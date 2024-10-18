@@ -33,9 +33,10 @@ En este juego, un Ladrón se mueve por una cuadrícula buscando monedas mientras
 
 ## Recursos
 - **Itch.io**: [Trabajo Final en Itch.io](https://pyoneerc1.itch.io/trabajo-final-prog-2024)
-- **Documentación del Proyecto**: [Google Docs](https://docs.google.com/document/d/1s2I4jVwzVLHsnZQtCuD1Jjsy-tCt7QaTLMpd-C0hRwE/edit?pli=1&tab=t.0)
+- **Condiciones de entrega**: [Google Docs](https://docs.google.com/document/d/1s2I4jVwzVLHsnZQtCuD1Jjsy-tCt7QaTLMpd-C0hRwE/edit?pli=1&tab=t.0)
 - **Roles de los integrantes**: [Google Docs](https://docs.google.com/document/d/1eXAJxbcqjve1-KuVF_cQgVdMPOr7pFXmC1ET7vhq9kM/edit?usp=sharing)
 - **Trello**: [Trello](https://trello.com/invite/b/6711b855c71b2bfea1f23949/ATTIc34b25ad27ab709f6769faca85ca86b1BADF30FA/juegoprogramacionfinal2024)
+- **Documentacion/GDD del proyecto: [Google Docs](https://docs.google.com/document/d/1AB1kE2Ns6wNXJqKLacaEoulRmVzwwLTOThxSD6uRiq0/edit?usp=sharing)
 
 ## Contribuciones
 Si deseas contribuir a este proyecto, siéntete libre de hacer un fork del repositorio y enviar un pull request.
